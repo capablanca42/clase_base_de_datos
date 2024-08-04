@@ -1,0 +1,4 @@
+Calificación : 2.3/3
+- Debe incluir bibliografía
+- Faltan números de página
+- No debe capturas la pantalla completa, ya que eso hace que no se aprecie con claridad la imagen. En su lugar solo debe capturar la parte que desea resaltar de la imagen
